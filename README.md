@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Hola,%20soy%20CA&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full-Stack%20%26%20Mobile&descAlignY=60&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Hola,%20soy%20CA&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full-Stack%20y%20Mobile&descAlignY=60&descSize=18" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3ECF8E&center=true&vCenter=true&width=460&lines=Flutter+%26+Dart;React%2C+Astro+%26+TypeScript;Python+%2B+IA;Supabase+%26+PostgreSQL" alt="stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3ECF8E&center=true&vCenter=true&width=460&lines=Flutter+y+Dart;React%2C+Astro+y+TypeScript;Python+e+IA;Supabase+y+PostgreSQL" alt="stack" />
 </p>
 
 <p align="center">
