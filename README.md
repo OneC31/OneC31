@@ -41,4 +41,4 @@
 
 Portafolio: <https://portfolca.netlify.app> · Email: nomcla31@gmail.com
 
-<sub>En camino a la certificación DocuSign Developer</sub>
+<sub>En camino a la certificación DocuSign</sub>
